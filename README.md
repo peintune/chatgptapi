@@ -17,7 +17,7 @@
 > 注意，要替换apiKey为你自己的Key
 ### 使用方式1：curl
 ```
-curl -X POST "http://chatgpt.taigoodai.com:9028/api/chatgpt/call/common?apiKey=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" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"chatgptRequest\": { \"messages\": [ { \"content\": \"帮我写首古诗\", \"role\": \"user\" } ], \"model\": \"gpt-3.5-turbo\" }}"
+curl -X POST "http://chatgpt.taigoodai.com:9028/api/chatgpt/call/common?apiKey=sk-4kxxxxxxx" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"chatgptRequest\": { \"messages\": [ { \"content\": \"帮我写首古诗\", \"role\": \"user\" } ], \"model\": \"gpt-3.5-turbo\" }}"
 
 ```
 
