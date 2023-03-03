@@ -23,7 +23,7 @@ curl -X POST "http://chatgpt.taigoodai.com:9028/api/chatgpt/call/common?apiKey=s
 
 结果如下图：
 
- <img src="https://user-images.githubusercontent.com/10082030/222691984-ef67b3bb-b31f-406d-a94b-7401513669fc.png" width="700">
+ <img src="https://user-images.githubusercontent.com/10082030/222701499-b1b31636-26e9-4489-8a02-19ae1e9c8193.png" width="700">
 
 
 
