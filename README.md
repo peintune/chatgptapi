@@ -17,6 +17,7 @@
 
 # 使用方法：
 ### 免费接口2：
+> 此接口直接可调用
 ```
 curl -X POST "http://chatgpt.taigoodai.com:9028/api/chatgpt/call/free2" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"chatgptRequest\": { \"messages\": [ { \"content\": \"你好\", \"role\": \"user\" } ], \"model\": \"gpt-3.5-turbo\" }}"
 
@@ -24,6 +25,8 @@ curl -X POST "http://chatgpt.taigoodai.com:9028/api/chatgpt/call/free2" -H "acce
 ```
 
 ### 免费接口1：
+> 注意，此接口要替换apiKey为你自己的Key
+
 ```
 curl -X POST "http://chatgpt.taigoodai.com:9028/api/chatgpt/call/free1?apiKey=sk-4kxxxxxxx" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"chatgptRequest\": { \"messages\": [ { \"content\": \"帮我写首古诗\", \"role\": \"user\" } ], \"model\": \"gpt-3.5-turbo\" }}"
 ```
