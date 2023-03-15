@@ -9,11 +9,11 @@
 
 5 合作接口：无限制
 
-# 使用地址：
+# UI 使用地址：
 
 https://chatai.taigoodai.com/
 
- <img src="https://user-images.githubusercontent.com/10082030/225298117-bb128bba-d3e8-41d1-b92e-693fb755cea7.png" width="150">
+ <img src="https://user-images.githubusercontent.com/10082030/225298117-bb128bba-d3e8-41d1-b92e-693fb755cea7.png" width="700">
 
 
 ### 交流：
@@ -22,7 +22,7 @@ https://chatai.taigoodai.com/
  <img src="https://user-images.githubusercontent.com/10082030/222692165-c91396fb-8062-473e-b083-c201fa19e9f1.png" width="150">
 
 
-# 使用方法：
+# 接口使用方法：
 ### 免费接口2：
 > 此接口直接可调用
 ```
