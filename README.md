@@ -9,6 +9,13 @@
 
 5 合作接口：无限制
 
+# 使用地址：
+
+https://chatai.taigoodai.com/
+
+ <img src="https://user-images.githubusercontent.com/10082030/225298117-bb128bba-d3e8-41d1-b92e-693fb755cea7.png" width="150">
+
+
 ### 交流：
 有合作和想法的伙伴可以加微信一起探讨
 
