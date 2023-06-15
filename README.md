@@ -9,6 +9,8 @@
 
 5 合作接口：无限制
 
+6 可以用在群机器人等场景中
+
 # UI 使用地址：
 
 https://chatai.taigoodai.com/
